@@ -28,3 +28,17 @@ Like, for now here is a simple Java code:
 
  1. <del>Git</del>
  2. Java
+
+
+### Social Media
+
+- Facebook[Facebook]
+- Github[GitHub]
+- Email
+
+
+
+<!-- So, links for all social media-->
+
+[Facebook]: https://www.facebook.com/IamSkhTanvirAhmed/
+[GitHub]: https://www.github.com/AhVir
