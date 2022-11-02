@@ -32,8 +32,8 @@ Like, for now here is a simple Java code:
 
 ### Social Media
 
-- Facebook[Facebook]
-- Github[GitHub]
+- [FaceBook][Facebook]
+- [GitHUB][GitHub]
 - Email
 
 
