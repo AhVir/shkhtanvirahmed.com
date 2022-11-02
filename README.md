@@ -8,7 +8,7 @@ This page is not done it, it's completely under construction.</p>
   
   
 Like, for now here is a simple Java code:  
- ```public static void main(String args[])  {  
+ ```public static void main(String args[])  <br>{  
       system.out.println("Hello Stranger");  
  }  
  ```  
