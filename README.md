@@ -1,9 +1,9 @@
 # shkhtanvirahmed.com
 first GitHub page repository
 
-# Hello, <iframe src="https://giphy.com/embed/H9VVXzT1LqDS4jDVf5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Emoji-transparent-H9VVXzT1LqDS4jDVf5">via GIPHY</a></p>
+# Hello,
 
-<p>Hope you are doing well, and having an **amazing** day
+<p>Hope you are doing well, and having an __amazing__ day
 This page is not done it, it's completely under construction.</p>  
   
   
@@ -12,6 +12,19 @@ Like, for now here is a simple Java code:
       system.out.println("Hello Stranger");  
  }  
  ```  
-Hi  
-hello 
-how are you?
+
+## List of things i want to learn:
+
+ - Java
+ - Python
+ - JavaScript
+ - C
+ - C#
+ - SpringBoot
+ - SQL
+
+
+## Things i hava learnt :
+
+ 1. <del>Git</del>
+ 2. Java
