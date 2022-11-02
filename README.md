@@ -1,7 +1,7 @@
 # shkhtanvirahmed.com
 first GitHub page repository
 
-#Hello,
+# Hello,
 <p>Hope you are doing well, and having an **amazing** day
 This page is not done it, it's completely under construction.</p>  
   
