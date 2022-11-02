@@ -7,7 +7,7 @@ first GitHub page repository
 This page is not done it, it's completely under construction.</p>  
   
   
-  [Google]([www.google.com](https://www.google.com/))
+  [Google](https://www.google.com/)
   
 Like, for now here is a simple Java code:  
  ```public static void main(String args[])  <br>{  
