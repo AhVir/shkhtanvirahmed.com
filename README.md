@@ -10,7 +10,7 @@ This page is not done it, it's completely under construction.</p>
   [Google](https://www.google.com/)
   
 Like, for now here is a simple Java code:  
- ```public static void main(String args[])  <br>{  
+ ```public static void main(String args[]) {  
       system.out.println("Hello Stranger");  
  }  
  ```  
@@ -26,12 +26,12 @@ Like, for now here is a simple Java code:
  - SQL
 
 
-## Things i hava learnt :
+## Things i have learnt :
 
  1. <del>Git</del>
- 2. Java
+ 2. <del>Java</del>
 
-[FaceBook]<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+[FaceBook]
   
 ### Social Media
 
@@ -42,7 +42,7 @@ Like, for now here is a simple Java code:
 | Index | Email |
 | --------- | ------- |
 | Mostly Used | abcdeeddcba@gmail.com |
-| Official | shkhtanvirahmed@gmail.com |
+| Official Mail | shkhtanvirahmed@gmail.com |
 | UIU Mail | sahmed2230191@bscse.uiu.ac.bd |
 
 
