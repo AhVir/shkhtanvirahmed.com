@@ -1,7 +1,12 @@
 # shkhtanvirahmed.com
 first GitHub page repository
 
-<img src="./image/new_pp.jpg" width = "340" height = "250" title = "Profile Image"/>
+<img src="./Image/new_pp.jpg" width = "340" height = "250" title = "Profile Image"/>
+![New Image](./Image/new_pp.jpg)
+
+<img src="./Image/Discord.jpg" width = "340" height = "250" title = "Discord Image"/>
+
+![discord_Image](./Image/Discord.jpg)
 
 
 # Hello,
@@ -50,7 +55,7 @@ Like, for now here is a simple Java code:
 | Mostly Used | abcdeeddcba@gmail.com |
 | Official Mail | shkhtanvirahmed@gmail.com |
 
-<img src = "/.Image/new_pp.jpg/" width = "200" length = "300" title = "New Profile Picture"/>
+<img src ="/.Image/new_pp.jpg/" width = "200" length = "300" title = "New Profile Picture"/>
 
 
 <!-- So, links for all social media-->
