@@ -40,9 +40,10 @@ Like, for now here is a simple Java code:
 - Email
 
 | Index | Email |
-|Mostly Used | abcdeeddcba@gmail.com|
-|Official | shkhtanvirahmed@gmail.com|
-|UIU Mail| sahmed2230191@bscse.uiu.ac.bd|
+| --------- | ------- |
+| Mostly Used | abcdeeddcba@gmail.com |
+| Official | shkhtanvirahmed@gmail.com |
+| UIU Mail | sahmed2230191@bscse.uiu.ac.bd |
 
 
 <!-- So, links for all social media-->
