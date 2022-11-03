@@ -1,6 +1,9 @@
 # shkhtanvirahmed.com
 first GitHub page repository
 
+<img src="./image/new pp.jpeg" width = "340" height = "250" title = "Profile Image"/>
+
+
 # Hello,
 
 <p>Hope you are doing well, and having an __amazing__ day
@@ -10,7 +13,8 @@ This page is not done it, it's completely under construction.</p>
   [Google](https://www.google.com/)
   
 Like, for now here is a simple Java code:  
- ```public static void main(String args[]) {  
+ ```public static void main(String args[]) 
+ {  
       system.out.println("Hello Stranger");  
  }  
  ```  
@@ -32,6 +36,8 @@ Like, for now here is a simple Java code:
  2. <del>Java</del>
 
 [FaceBook]
+
+![Image](./Image/PP.jpg)
   
 ### Social Media
 
@@ -43,7 +49,8 @@ Like, for now here is a simple Java code:
 | --------- | ------- |
 | Mostly Used | abcdeeddcba@gmail.com |
 | Official Mail | shkhtanvirahmed@gmail.com |
-| UIU Mail | sahmed2230191@bscse.uiu.ac.bd |
+
+<img src = "/.Image/new pp.jpeg/" width = "200" length = "300" title = "New Profile Picture"/>
 
 
 <!-- So, links for all social media-->
