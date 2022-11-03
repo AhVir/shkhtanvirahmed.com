@@ -1,27 +1,20 @@
-# shkhtanvirahmed.com
-first GitHub page repository
+<h1>🔸BTW, Site and Skill both are under-construction!<h1>  
 
-<img src="./Image/new_pp.jpg" width = "340" height = "250" title = "Profile Image"/>
-![New Image](./Image/new_pp.jpg)
+<h2> Myself, Sheikh Tanvir Ahmed<h2>
 
-<img src="./Image/Discord.jpg" width = "340" height = "250" title = "Discord Image"/>
+<img src = "./Image/new_pp.jpg/" title = "Profile Picture" />
 
-![discord_Image](./Image/Discord.jpg)
+# Hello 👋,
 
-
-# Hello,
-
-<p>Hope you are doing well, and having an __amazing__ day
+<p>Hope you are doing well, and having an <b>AMAZING</b> day
 This page is not done it, it's completely under construction.</p>  
   
   
   [Google](https://www.google.com/)
   
 Like, for now here is a simple Java code:  
- ```public static void main(String args[]) 
- {  
-      system.out.println("Hello Stranger");  
- }  
+  ```java
+ System.out.println("Hello Stranger");  
  ```  
 
 ## List of things i want to learn:
@@ -35,12 +28,12 @@ Like, for now here is a simple Java code:
  - SQL
 
 
-## Things i have learnt :
+## Things i am currently working on :
 
  1. <del>Git</del>
  2. <del>Java</del>
 
-[FaceBook]
+ --- 
 
 ![Image](./Image/PP.jpg)
   
@@ -54,8 +47,6 @@ Like, for now here is a simple Java code:
 | --------- | ------- |
 | Mostly Used | abcdeeddcba@gmail.com |
 | Official Mail | shkhtanvirahmed@gmail.com |
-
-<img src ="/.Image/new_pp.jpg/" width = "200" length = "300" title = "New Profile Picture"/>
 
 
 <!-- So, links for all social media-->
